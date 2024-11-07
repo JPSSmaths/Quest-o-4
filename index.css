@@ -1,0 +1,25 @@
+.imagens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.escolha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.arrastar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.resultado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.comecarDenovo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
